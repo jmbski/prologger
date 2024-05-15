@@ -1,0 +1,8 @@
+# Author: Joseph Bochinski
+# Description: A module that helps keep file prologue docstrings maintained
+# Version: 0.0.1
+# Ticket ID: WS-12345
+# Date: 2024-05-15
+# User ID: joseph
+################################################################################
+
